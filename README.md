@@ -1,15 +1,12 @@
-[![NPM](https://nodei.co/npm/quill-delta-to-markdown.png)](https://nodei.co/npm/quill-delta-to-markdown/)  
-[![Build Status](https://travis-ci.org/frysztak/quill-delta-to-markdown.svg?branch=master)](https://travis-ci.org/frysztak/quill-delta-to-markdown)  
-
 
 ## Quill delta to Markdown converter
 Converter from the [Delta](https://quilljs.com/docs/delta/) document format used by the [Quill](https://quilljs.com/) 
-text editor to Markdown.
+text editor to Slack's Markdown
 
 ## Usage
 
-```javascript
-const { deltaToMarkdown } = require('quill-delta-to-markdown')
+```typescript
+import { deltaToMarkdown } = from 'quill-delta-to-markdown';
 const markdown = deltaToMarkdown(deltaFromElseWhere)
 ```
 
