@@ -22,5 +22,5 @@ npm test
 
 ## About
 
-This lib was forked from [rdesmartin's fork](https://github.com/rdesmartin/quill-delta-markdown) of [the Slite Team's fork](https://github.com/sliteteam/quill-delta-markdown) of 
+This lib was forked from [frysztak's fork](https://github.com/frysztak/quill-delta-to-markdown) of [rdesmartin's fork](https://github.com/rdesmartin/quill-delta-markdown) of [the Slite Team's fork](https://github.com/sliteteam/quill-delta-markdown) of 
 [Bart Visscher (bartv2) 's lib](https://github.com/bartv2/quill-delta-markdown). Open source!
